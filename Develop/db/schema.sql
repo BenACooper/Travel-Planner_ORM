@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS vacations_db;
+CREATE DATABASE vacations_db;

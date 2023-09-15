@@ -1,0 +1,27 @@
+{
+  "name": "vacation-api",
+  "version": "1.0.0",
+  "description": "what goes here?",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenACooper/Travel-Planner_ORM.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenACooper/Travel-Planner_ORM/issues"
+  },
+  "homepage": "https://github.com/BenACooper/Travel-Planner_ORM#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.1",
+    "sequelize": "^6.3.5"
+  }
+}
