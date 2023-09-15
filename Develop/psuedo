@@ -10,4 +10,6 @@
 //in route create index.js, then /api
 //in /api index.js, travellers.js, locations.js, and trips.js
 
-//
+//in schema.sql create database
+//init package.json and install dependncies
+//in /models create the location, traveller and trip models
