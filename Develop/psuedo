@@ -1,0 +1,8 @@
+//start new repo on GitHub
+//copy develop folder to new repo
+//create schema.sql for library
+//create database: models subidrectory, models.js
+//create server.js
+//create index.js
+//create routes directory
+//create routes js: index, travelelrs, locations, trips
